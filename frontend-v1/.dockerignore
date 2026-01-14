@@ -1,0 +1,23 @@
+.next
+node_modules
+.git
+.gitignore
+
+# VSCode remote
+.vscode
+.vscode-server
+.vscode-remote
+.devcontainer
+
+# OS files
+.DS_Store
+*.log
+
+# Output folders
+dist
+build
+out
+
+# Environment files (optional)
+.env.local
+.env.development
